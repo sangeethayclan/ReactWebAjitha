@@ -1,0 +1,6 @@
+.MuiInput-underline:before {
+    border-bottom: 0px !important;
+}
+.MuiOutlinedInput-notchedOutline{
+    border: 0px !important;
+}

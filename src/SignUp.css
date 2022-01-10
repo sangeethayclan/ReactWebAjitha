@@ -1,0 +1,105 @@
+* {
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: popins;
+  }
+  @font-face {
+    font-family: popins;
+    src: url(./popins/Poppins-Regular.ttf);
+  }
+  .row{
+    margin: 0;
+  }
+  .row>*{
+    padding: 0;
+  }
+  .bgc {
+    padding: 80px 0 0;
+    background-color: #f3ead4;
+  }
+  .Easiest-way-to-searc {
+      padding: 0px 25%;
+    font-family: PlayfairDisplay;
+    font-size: 46px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #1d0e1a;
+  }
+  .house {
+      width: 100%;
+    object-fit: cover;
+  }
+  .Hey-there-Welcome-b {
+    width: 252px;
+    height: 96px;
+    margin: 0 112px 63px 0;
+    font-family: popins;
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #000000;
+  }
+  
+  .Hey-there-Welcome-b .text-style-1 {
+    font-weight: 300;
+  }
+  .center{
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    padding-top: 80px ;
+  }
+  .borders{
+      border: 0;
+      outline: 0;
+    padding-left: 0;
+      border-bottom: 1px solid #666666;
+  }
+  .Forgot-Password {
+    margin: 23px 0 39px;
+    font-family: popins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #333;
+  }
+  .Dont-have-an-account {
+    font-family: popins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #666666;
+  }
+  .marbot{
+      margin-bottom: 50px;
+  }
+  .cente{
+      width: 60%;
+      display: block;
+      margin: 0 auto;
+  }
+  .Dont-have-an-account .text-style-1 {
+    font-weight: bold;
+    color: #772360;
+  }
+  .Rectangle {
+      padding: 10px;
+      text-align: center;
+      margin: 39px 0 29px;
+    border-radius: 25px;
+    background-color: #772360;
+  }
